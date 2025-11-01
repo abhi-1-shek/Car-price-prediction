@@ -1,8 +1,11 @@
 Project Overview:
+
 Goal: To develop a machine learning model capable of accurately predicting car prices based on various features.
 Motivation: Accurate price prediction is valuable for buyers, sellers, dealerships, and insurance companies in the automotive industry.
 Methodology: Utilizes machine learning algorithms (e.g., Random Forest Regressor, Linear Regression, Lasso Regression) trained on historical car data.
+
 Features:
+
 Data Preprocessing: Cleaning and preparing the raw data, handling missing values, encoding categorical variables, and scaling numerical features.
 Feature Engineering: Creating new, informative features from existing ones to improve model performance (e.g., calculating car age from manufacturing year).
 Model Training: Training a chosen machine learning model on the prepared dataset.
